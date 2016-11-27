@@ -1,0 +1,69 @@
+c:\users\user\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Long.resources
+c:\users\user\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Weight.resources
+C:\Users\User\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe
+C:\Users\User\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.pdb
+C:\Users\User\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.exe
+C:\Users\User\documents\visual studio 2015\Projects\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.pdb
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe.config
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.exe
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.pdb
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe.config
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.exe
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.pdb
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.pdb
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csprojResolveAssemblyReference.cache
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Select.resources
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Long.resources
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Properties.Resources.resources
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Weight.resources
+F:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csproj.GenerateResource.Cache
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.pdb
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csprojResolveAssemblyReference.cache
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Select.resources
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Long.resources
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Properties.Resources.resources
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Weight.resources
+E:\Present\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csproj.GenerateResource.Cache
+D:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe.config
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.exe
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.pdb
+D:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe
+D:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.pdb
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csprojResolveAssemblyReference.cache
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Select.resources
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Long.resources
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Properties.Resources.resources
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Weight.resources
+D:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csproj.GenerateResource.Cache
+F:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe.config
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.exe
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.pdb
+F:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe
+F:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.pdb
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csprojResolveAssemblyReference.cache
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Select.resources
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Long.resources
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Properties.Resources.resources
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Weight.resources
+F:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csproj.GenerateResource.Cache
+E:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe.config
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.exe
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.pdb
+E:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe
+E:\คำนวณแปรค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.pdb
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csprojResolveAssemblyReference.cache
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Select.resources
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Long.resources
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Properties.Resources.resources
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.Weight.resources
+E:\คำนวณแปรค่า\คำนวณแปรค่า\obj\Debug\คำนวณแปรค่า.csproj.GenerateResource.Cache
+D:\PROJ593410051-4\คำนวณแปลงค่า\คำนวณแปรค่า\bin\Debug\_คำนวณแปรค่า.exe.config
+D:\PROJ593410051-4\คำนวณแปลงค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.exe
+D:\PROJ593410051-4\คำนวณแปลงค่า\คำนวณแปรค่า\obj\Debug\_คำนวณแปรค่า.pdb
